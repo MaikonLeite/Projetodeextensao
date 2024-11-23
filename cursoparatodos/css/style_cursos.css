@@ -1,0 +1,153 @@
+body{
+    background-image: url("/imgs/senior-woman-unlocking-her-tablet.jpg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: right;
+    width: 100%;
+    }
+
+button{
+    background-color: purple;
+    border-color: purple;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    }
+    
+button:hover{
+    background-color: chartreuse;
+    color: black;
+    border-color: white;
+    }
+
+h1, h3{
+    text-align: left;
+    margin-left: 30px;
+}
+
+h1{
+    font-size: 110px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+}
+
+h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 100px;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: bold;
+    text-align: left;
+}
+
+h3{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+
+
+
+#tec{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+    background-color: purple;
+    color: azure;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 10px 197px;
+    border-radius: 10px;
+    border-color: purple;
+
+}
+
+#tec:hover{
+    background-color: chartreuse;
+    color: black;
+    border-color: white;
+    border-style: solid;
+    border-width: 10px 197px;
+    border-radius: 10px;
+}
+
+#fin{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
+    background-color: purple;
+    color: azure;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 10px 207px;
+    border-radius: 10px;
+    border-color: purple;
+}
+
+#fin:hover{
+    background-color: chartreuse;
+    color: black;
+    border-color: white;
+    border-radius: 10px;
+}
+
+
+
+#des{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
+    background-color: purple;
+    color: azure;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 10px 80px;
+    border-radius: 10px;
+    border-color: purple;
+}
+
+
+#ino{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
+    background-color: purple;
+    color: azure;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 10px 207px;
+    border-radius: 10px;
+    border-color: purple;
+}
+
+#red{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
+    background-color: purple;
+    color: azure;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 10px 188px;
+    border-radius: 10px;
+    border-color: purple;
+}
+
+
+
+
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer a{
+    text-decoration: none;
+    
+}

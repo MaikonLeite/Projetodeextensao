@@ -1,0 +1,58 @@
+
+body{
+    background-image: url("/imgs/onu-logo-12.png");
+    background-position-y: 40px;
+    background-size: 280px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-size: 100px;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: bold;
+    text-align: center;
+}
+
+button{
+    background-color: purple;
+    border-color: purple;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: chartreuse;
+    color: black;
+    border-color: white;
+}
+
+
+h3{
+    text-align: center;
+    font-style: italic;
+}
+
+p{
+    padding: 50px 200px 50px 200px;
+    text-align:center;
+    z-index: -1;
+}
+
+#ODS{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+    
+}
